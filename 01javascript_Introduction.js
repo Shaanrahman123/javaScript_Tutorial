@@ -24,3 +24,39 @@
 // to print anything we use console.log();
 // console.log("Hello world this is my first javascript program !");
 
+
+
+
+// variable is like a container inside which we can store any type of data ...such as string, number, array;
+
+// in javascript variable's type can be changed at the run time.
+
+// there are three ways by which we can define variable
+
+// 1. var
+// 2. let
+// 3 const
+
+
+
+// var a(identifier) =(operator) 7(literal);
+
+
+
+// var is global scoped variable
+// var a = 5;
+// console.log(a);
+// a = "javascript"; (we can reassigned in var)
+// console.log(a);
+
+
+// let is block level variable
+// let b = 5;
+// console.log(b);
+// let b = "javascript"; (we cannot reassigned in let )
+// console.log(b)
+
+
+
+
+
